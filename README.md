@@ -90,7 +90,9 @@ The required screenshot includes:
 
 Location in the repository:
 ```
-screenshots/output.png
+## Sample Output
+
+![NYC Yellow Taxi 2025 output](screenshots/output.png)
 ```
 
 ---
